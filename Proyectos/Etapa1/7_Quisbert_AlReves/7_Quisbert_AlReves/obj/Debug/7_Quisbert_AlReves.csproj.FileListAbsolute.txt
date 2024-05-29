@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\7_Quisbert_AlReves\7_Quisbert_AlReves\bin\Debug\7_Quisbert_AlReves.exe.config
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\7_Quisbert_AlReves\7_Quisbert_AlReves\bin\Debug\7_Quisbert_AlReves.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\7_Quisbert_AlReves\7_Quisbert_AlReves\bin\Debug\7_Quisbert_AlReves.pdb
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\7_Quisbert_AlReves\7_Quisbert_AlReves\obj\Debug\7_Quisbert_AlReves.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\7_Quisbert_AlReves\7_Quisbert_AlReves\obj\Debug\7_Quisbert_AlReves.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\7_Quisbert_AlReves\7_Quisbert_AlReves\obj\Debug\7_Quisbert_AlReves.pdb
