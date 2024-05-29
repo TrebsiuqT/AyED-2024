@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\0_Quisbert_HolaMundo\0_Quisbert_HolaMundo\bin\Debug\0_Quisbert_HolaMundo.exe.config
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\0_Quisbert_HolaMundo\0_Quisbert_HolaMundo\bin\Debug\0_Quisbert_HolaMundo.exe
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\0_Quisbert_HolaMundo\0_Quisbert_HolaMundo\bin\Debug\0_Quisbert_HolaMundo.pdb
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\0_Quisbert_HolaMundo\0_Quisbert_HolaMundo\obj\Debug\0_Quisbert_HolaMundo.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\0_Quisbert_HolaMundo\0_Quisbert_HolaMundo\obj\Debug\0_Quisbert_HolaMundo.exe
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\0_Quisbert_HolaMundo\0_Quisbert_HolaMundo\obj\Debug\0_Quisbert_HolaMundo.pdb
