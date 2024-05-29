@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\2_Quisbert_TestVariables\2_Quisbert_TestVariables\bin\Debug\2_Quisbert_TestVariables.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\2_Quisbert_TestVariables\2_Quisbert_TestVariables\obj\Debug\2_Quisbert_TestVariables.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\2_Quisbert_TestVariables\2_Quisbert_TestVariables\bin\Debug\2_Quisbert_TestVariables.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\2_Quisbert_TestVariables\2_Quisbert_TestVariables\bin\Debug\2_Quisbert_TestVariables.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\2_Quisbert_TestVariables\2_Quisbert_TestVariables\obj\Debug\2_Quisbert_TestVariables.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\2_Quisbert_TestVariables\2_Quisbert_TestVariables\obj\Debug\2_Quisbert_TestVariables.pdb

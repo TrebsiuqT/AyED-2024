@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\1_Quisbert_HolaNombre\1_Quisbert_HolaNombre\bin\Debug\1_Quisbert_HolaNombre.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\1_Quisbert_HolaNombre\1_Quisbert_HolaNombre\bin\Debug\1_Quisbert_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\1_Quisbert_HolaNombre\1_Quisbert_HolaNombre\bin\Debug\1_Quisbert_HolaNombre.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\1_Quisbert_HolaNombre\1_Quisbert_HolaNombre\obj\Debug\1_Quisbert_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\etapa0\1_Quisbert_HolaNombre\1_Quisbert_HolaNombre\obj\Debug\1_Quisbert_HolaNombre.pdb
