@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\17_Quisbert_MiPrimerMenuObjetivo\17_Quisbert_MiPrimerMenuObjetivo\bin\Debug\17_Quisbert_MiPrimerMenuObjetivo.exe.config
+C:\Users\alumno.ET37\Desktop\17_Quisbert_MiPrimerMenuObjetivo\17_Quisbert_MiPrimerMenuObjetivo\bin\Debug\17_Quisbert_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Desktop\17_Quisbert_MiPrimerMenuObjetivo\17_Quisbert_MiPrimerMenuObjetivo\bin\Debug\17_Quisbert_MiPrimerMenuObjetivo.pdb
+C:\Users\alumno.ET37\Desktop\17_Quisbert_MiPrimerMenuObjetivo\17_Quisbert_MiPrimerMenuObjetivo\obj\Debug\17_Quisbert_MiPrimerMenuObjetivo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\17_Quisbert_MiPrimerMenuObjetivo\17_Quisbert_MiPrimerMenuObjetivo\obj\Debug\17_Quisbert_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Desktop\17_Quisbert_MiPrimerMenuObjetivo\17_Quisbert_MiPrimerMenuObjetivo\obj\Debug\17_Quisbert_MiPrimerMenuObjetivo.pdb

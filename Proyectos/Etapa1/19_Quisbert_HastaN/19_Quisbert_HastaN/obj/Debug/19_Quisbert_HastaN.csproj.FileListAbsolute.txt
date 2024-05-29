@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\19_Quisbert_HastaN\19_Quisbert_HastaN\bin\Debug\19_Quisbert_HastaN.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\19_Quisbert_HastaN\19_Quisbert_HastaN\bin\Debug\19_Quisbert_HastaN.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\19_Quisbert_HastaN\19_Quisbert_HastaN\bin\Debug\19_Quisbert_HastaN.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\19_Quisbert_HastaN\19_Quisbert_HastaN\obj\Debug\19_Quisbert_HastaN.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\19_Quisbert_HastaN\19_Quisbert_HastaN\obj\Debug\19_Quisbert_HastaN.pdb

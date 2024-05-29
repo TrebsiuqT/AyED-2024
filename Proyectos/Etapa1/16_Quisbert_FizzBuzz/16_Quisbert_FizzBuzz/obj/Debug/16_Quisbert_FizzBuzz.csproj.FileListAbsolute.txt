@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\16_Quisbert_FizzBuzz\16_Quisbert_FizzBuzz\bin\Debug\16_Quisbert_FizzBuzz.exe.config
+C:\Users\alumno.ET37\Desktop\16_Quisbert_FizzBuzz\16_Quisbert_FizzBuzz\obj\Debug\16_Quisbert_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\16_Quisbert_FizzBuzz\16_Quisbert_FizzBuzz\bin\Debug\16_Quisbert_FizzBuzz.exe
+C:\Users\alumno.ET37\Desktop\16_Quisbert_FizzBuzz\16_Quisbert_FizzBuzz\bin\Debug\16_Quisbert_FizzBuzz.pdb
+C:\Users\alumno.ET37\Desktop\16_Quisbert_FizzBuzz\16_Quisbert_FizzBuzz\obj\Debug\16_Quisbert_FizzBuzz.exe
+C:\Users\alumno.ET37\Desktop\16_Quisbert_FizzBuzz\16_Quisbert_FizzBuzz\obj\Debug\16_Quisbert_FizzBuzz.pdb
