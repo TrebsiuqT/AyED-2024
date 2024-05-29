@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\10_Quisbert_EsDivisor\10_Quisbert_EsDivisor\bin\Debug\10_Quisbert_EsDivisor.exe.config
+C:\Users\alumno.ET37\Desktop\10_Quisbert_EsDivisor\10_Quisbert_EsDivisor\bin\Debug\10_Quisbert_EsDivisor.exe
+C:\Users\alumno.ET37\Desktop\10_Quisbert_EsDivisor\10_Quisbert_EsDivisor\bin\Debug\10_Quisbert_EsDivisor.pdb
+C:\Users\alumno.ET37\Desktop\10_Quisbert_EsDivisor\10_Quisbert_EsDivisor\obj\Debug\10_Quisbert_EsDivisor.exe
+C:\Users\alumno.ET37\Desktop\10_Quisbert_EsDivisor\10_Quisbert_EsDivisor\obj\Debug\10_Quisbert_EsDivisor.pdb

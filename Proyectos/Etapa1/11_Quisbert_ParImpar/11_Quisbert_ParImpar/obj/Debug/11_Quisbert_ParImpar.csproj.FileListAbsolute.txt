@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\11_Quisbert_ParImpar\11_Quisbert_ParImpar\bin\Debug\11_Quisbert_ParImpar.exe.config
+C:\Users\alumno.ET37\Desktop\11_Quisbert_ParImpar\11_Quisbert_ParImpar\bin\Debug\11_Quisbert_ParImpar.exe
+C:\Users\alumno.ET37\Desktop\11_Quisbert_ParImpar\11_Quisbert_ParImpar\bin\Debug\11_Quisbert_ParImpar.pdb
+C:\Users\alumno.ET37\Desktop\11_Quisbert_ParImpar\11_Quisbert_ParImpar\obj\Debug\11_Quisbert_ParImpar.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\11_Quisbert_ParImpar\11_Quisbert_ParImpar\obj\Debug\11_Quisbert_ParImpar.exe
+C:\Users\alumno.ET37\Desktop\11_Quisbert_ParImpar\11_Quisbert_ParImpar\obj\Debug\11_Quisbert_ParImpar.pdb

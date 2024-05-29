@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\12_Quisbert_CobraBeca\12_Quisbert_CobraBeca\bin\Debug\12_Quisbert_CobraBeca.exe.config
+C:\Users\alumno.ET37\Desktop\12_Quisbert_CobraBeca\12_Quisbert_CobraBeca\bin\Debug\12_Quisbert_CobraBeca.exe
+C:\Users\alumno.ET37\Desktop\12_Quisbert_CobraBeca\12_Quisbert_CobraBeca\bin\Debug\12_Quisbert_CobraBeca.pdb
+C:\Users\alumno.ET37\Desktop\12_Quisbert_CobraBeca\12_Quisbert_CobraBeca\obj\Debug\12_Quisbert_CobraBeca.exe
+C:\Users\alumno.ET37\Desktop\12_Quisbert_CobraBeca\12_Quisbert_CobraBeca\obj\Debug\12_Quisbert_CobraBeca.pdb
