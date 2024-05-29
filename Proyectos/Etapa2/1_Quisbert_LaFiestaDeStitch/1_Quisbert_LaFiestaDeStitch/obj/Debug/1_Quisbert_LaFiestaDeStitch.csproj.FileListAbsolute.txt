@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\1_Quisbert_LaFiestaDeStitch\1_Quisbert_LaFiestaDeStitch\bin\Debug\1_Quisbert_LaFiestaDeStitch.exe.config
+C:\Users\alumno.ET37\Desktop\1_Quisbert_LaFiestaDeStitch\1_Quisbert_LaFiestaDeStitch\bin\Debug\1_Quisbert_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Desktop\1_Quisbert_LaFiestaDeStitch\1_Quisbert_LaFiestaDeStitch\bin\Debug\1_Quisbert_LaFiestaDeStitch.pdb
+C:\Users\alumno.ET37\Desktop\1_Quisbert_LaFiestaDeStitch\1_Quisbert_LaFiestaDeStitch\obj\Debug\1_Quisbert_LaFiestaDeStitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\1_Quisbert_LaFiestaDeStitch\1_Quisbert_LaFiestaDeStitch\obj\Debug\1_Quisbert_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Desktop\1_Quisbert_LaFiestaDeStitch\1_Quisbert_LaFiestaDeStitch\obj\Debug\1_Quisbert_LaFiestaDeStitch.pdb

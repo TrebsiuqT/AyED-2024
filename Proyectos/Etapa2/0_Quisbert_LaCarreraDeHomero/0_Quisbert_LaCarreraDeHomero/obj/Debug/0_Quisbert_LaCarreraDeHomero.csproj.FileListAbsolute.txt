@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\0_Quisbert_LaCarreraDeHomero\0_Quisbert_LaCarreraDeHomero\bin\Debug\0_Quisbert_LaCarreraDeHomero.exe.config
+C:\Users\alumno.ET37\Desktop\0_Quisbert_LaCarreraDeHomero\0_Quisbert_LaCarreraDeHomero\obj\Debug\0_Quisbert_LaCarreraDeHomero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\0_Quisbert_LaCarreraDeHomero\0_Quisbert_LaCarreraDeHomero\bin\Debug\0_Quisbert_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Desktop\0_Quisbert_LaCarreraDeHomero\0_Quisbert_LaCarreraDeHomero\bin\Debug\0_Quisbert_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Desktop\0_Quisbert_LaCarreraDeHomero\0_Quisbert_LaCarreraDeHomero\obj\Debug\0_Quisbert_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Desktop\0_Quisbert_LaCarreraDeHomero\0_Quisbert_LaCarreraDeHomero\obj\Debug\0_Quisbert_LaCarreraDeHomero.pdb

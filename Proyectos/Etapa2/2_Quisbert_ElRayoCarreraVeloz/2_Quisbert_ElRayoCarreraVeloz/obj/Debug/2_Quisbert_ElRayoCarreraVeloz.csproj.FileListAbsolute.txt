@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\2_Quisbert_ElRayoCarreraVeloz\2_Quisbert_ElRayoCarreraVeloz\bin\Debug\2_Quisbert_ElRayoCarreraVeloz.exe.config
+C:\Users\alumno.ET37\Desktop\2_Quisbert_ElRayoCarreraVeloz\2_Quisbert_ElRayoCarreraVeloz\bin\Debug\2_Quisbert_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Desktop\2_Quisbert_ElRayoCarreraVeloz\2_Quisbert_ElRayoCarreraVeloz\bin\Debug\2_Quisbert_ElRayoCarreraVeloz.pdb
+C:\Users\alumno.ET37\Desktop\2_Quisbert_ElRayoCarreraVeloz\2_Quisbert_ElRayoCarreraVeloz\obj\Debug\2_Quisbert_ElRayoCarreraVeloz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\2_Quisbert_ElRayoCarreraVeloz\2_Quisbert_ElRayoCarreraVeloz\obj\Debug\2_Quisbert_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Desktop\2_Quisbert_ElRayoCarreraVeloz\2_Quisbert_ElRayoCarreraVeloz\obj\Debug\2_Quisbert_ElRayoCarreraVeloz.pdb
