@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\15_Quisbert_CuentaRegresiva\15_Quisbert_CuentaRegresiva\bin\Debug\15_Quisbert_CuentaRegresiva.exe.config
+C:\Users\alumno.ET37\Desktop\15_Quisbert_CuentaRegresiva\15_Quisbert_CuentaRegresiva\bin\Debug\15_Quisbert_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Desktop\15_Quisbert_CuentaRegresiva\15_Quisbert_CuentaRegresiva\bin\Debug\15_Quisbert_CuentaRegresiva.pdb
+C:\Users\alumno.ET37\Desktop\15_Quisbert_CuentaRegresiva\15_Quisbert_CuentaRegresiva\obj\Debug\15_Quisbert_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Desktop\15_Quisbert_CuentaRegresiva\15_Quisbert_CuentaRegresiva\obj\Debug\15_Quisbert_CuentaRegresiva.pdb

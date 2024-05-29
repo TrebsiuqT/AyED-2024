@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\13_Quisbert_DiezVeses\13_Quisbert_DiezVeses\bin\Debug\13_Quisbert_DiezVeses.exe.config
+C:\Users\alumno.ET37\Desktop\13_Quisbert_DiezVeses\13_Quisbert_DiezVeses\bin\Debug\13_Quisbert_DiezVeses.exe
+C:\Users\alumno.ET37\Desktop\13_Quisbert_DiezVeses\13_Quisbert_DiezVeses\bin\Debug\13_Quisbert_DiezVeses.pdb
+C:\Users\alumno.ET37\Desktop\13_Quisbert_DiezVeses\13_Quisbert_DiezVeses\obj\Debug\13_Quisbert_DiezVeses.exe
+C:\Users\alumno.ET37\Desktop\13_Quisbert_DiezVeses\13_Quisbert_DiezVeses\obj\Debug\13_Quisbert_DiezVeses.pdb
