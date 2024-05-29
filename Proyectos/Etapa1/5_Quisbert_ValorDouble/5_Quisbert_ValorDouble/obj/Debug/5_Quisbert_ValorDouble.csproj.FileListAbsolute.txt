@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\5_Quisbert_ValorDouble\5_Quisbert_ValorDouble\bin\Debug\5_Quisbert_ValorDouble.exe.config
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\5_Quisbert_ValorDouble\5_Quisbert_ValorDouble\bin\Debug\5_Quisbert_ValorDouble.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\5_Quisbert_ValorDouble\5_Quisbert_ValorDouble\bin\Debug\5_Quisbert_ValorDouble.pdb
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\5_Quisbert_ValorDouble\5_Quisbert_ValorDouble\obj\Debug\5_Quisbert_ValorDouble.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\5_Quisbert_ValorDouble\5_Quisbert_ValorDouble\obj\Debug\5_Quisbert_ValorDouble.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\5_Quisbert_ValorDouble\5_Quisbert_ValorDouble\obj\Debug\5_Quisbert_ValorDouble.pdb
