@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\2_Quisbert_BienvenidoACiudad\2_Quisbert_BienvenidoACiudad\bin\Debug\2_Quisbert_BienvenidoACiudad.exe.config
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\2_Quisbert_BienvenidoACiudad\2_Quisbert_BienvenidoACiudad\bin\Debug\2_Quisbert_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\2_Quisbert_BienvenidoACiudad\2_Quisbert_BienvenidoACiudad\bin\Debug\2_Quisbert_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\2_Quisbert_BienvenidoACiudad\2_Quisbert_BienvenidoACiudad\obj\Debug\2_Quisbert_BienvenidoACiudad.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\2_Quisbert_BienvenidoACiudad\2_Quisbert_BienvenidoACiudad\obj\Debug\2_Quisbert_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\2_Quisbert_BienvenidoACiudad\2_Quisbert_BienvenidoACiudad\obj\Debug\2_Quisbert_BienvenidoACiudad.pdb

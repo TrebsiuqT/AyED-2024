@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\0_Quisbert_CalculadoraBasica\0_Quisbert_CalculadoraBasica\bin\Debug\0_Quisbert_CalculadoraBasica.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\0_Quisbert_CalculadoraBasica\0_Quisbert_CalculadoraBasica\bin\Debug\0_Quisbert_CalculadoraBasica.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\0_Quisbert_CalculadoraBasica\0_Quisbert_CalculadoraBasica\bin\Debug\0_Quisbert_CalculadoraBasica.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\0_Quisbert_CalculadoraBasica\0_Quisbert_CalculadoraBasica\obj\Debug\0_Quisbert_CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\0_Quisbert_CalculadoraBasica\0_Quisbert_CalculadoraBasica\obj\Debug\0_Quisbert_CalculadoraBasica.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\0_Quisbert_CalculadoraBasica\0_Quisbert_CalculadoraBasica\obj\Debug\0_Quisbert_CalculadoraBasica.pdb

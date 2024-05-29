@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\3_Quisbert_DimensionesEsfera\3_Quisbert_DimensionesEsfera\bin\Debug\3_Quisbert_DimensionesEsfera.exe.config
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\3_Quisbert_DimensionesEsfera\3_Quisbert_DimensionesEsfera\bin\Debug\3_Quisbert_DimensionesEsfera.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\3_Quisbert_DimensionesEsfera\3_Quisbert_DimensionesEsfera\bin\Debug\3_Quisbert_DimensionesEsfera.pdb
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\3_Quisbert_DimensionesEsfera\3_Quisbert_DimensionesEsfera\obj\Debug\3_Quisbert_DimensionesEsfera.exe
+C:\Users\alumno.ET37\Desktop\Quisbert2024\Etapa1\3_Quisbert_DimensionesEsfera\3_Quisbert_DimensionesEsfera\obj\Debug\3_Quisbert_DimensionesEsfera.pdb

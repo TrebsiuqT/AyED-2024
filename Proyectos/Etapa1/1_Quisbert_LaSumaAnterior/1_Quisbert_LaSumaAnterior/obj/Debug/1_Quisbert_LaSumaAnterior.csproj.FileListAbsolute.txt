@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\1_Quisbert_LaSumaAnterior\1_Quisbert_LaSumaAnterior\bin\Debug\1_Quisbert_LaSumaAnterior.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\1_Quisbert_LaSumaAnterior\1_Quisbert_LaSumaAnterior\bin\Debug\1_Quisbert_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\1_Quisbert_LaSumaAnterior\1_Quisbert_LaSumaAnterior\bin\Debug\1_Quisbert_LaSumaAnterior.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\1_Quisbert_LaSumaAnterior\1_Quisbert_LaSumaAnterior\obj\Debug\1_Quisbert_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Quisbert2024\Etapa1\1_Quisbert_LaSumaAnterior\1_Quisbert_LaSumaAnterior\obj\Debug\1_Quisbert_LaSumaAnterior.pdb
