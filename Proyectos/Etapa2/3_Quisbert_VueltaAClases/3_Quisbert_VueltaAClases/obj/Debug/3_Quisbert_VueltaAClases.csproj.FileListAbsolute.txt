@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\3_Quisbert_VueltaAClases\3_Quisbert_VueltaAClases\bin\Debug\3_Quisbert_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Desktop\3_Quisbert_VueltaAClases\3_Quisbert_VueltaAClases\bin\Debug\3_Quisbert_VueltaAClases.exe
+C:\Users\alumno.ET37\Desktop\3_Quisbert_VueltaAClases\3_Quisbert_VueltaAClases\bin\Debug\3_Quisbert_VueltaAClases.pdb
+C:\Users\alumno.ET37\Desktop\3_Quisbert_VueltaAClases\3_Quisbert_VueltaAClases\obj\Debug\3_Quisbert_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\3_Quisbert_VueltaAClases\3_Quisbert_VueltaAClases\obj\Debug\3_Quisbert_VueltaAClases.exe
+C:\Users\alumno.ET37\Desktop\3_Quisbert_VueltaAClases\3_Quisbert_VueltaAClases\obj\Debug\3_Quisbert_VueltaAClases.pdb
