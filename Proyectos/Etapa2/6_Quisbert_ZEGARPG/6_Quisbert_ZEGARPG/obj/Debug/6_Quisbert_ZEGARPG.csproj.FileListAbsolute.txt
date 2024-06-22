@@ -1,0 +1,10 @@
+C:\Users\alumno.ET37\Desktop\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\bin\Debug\6_Quisbert_ZEGARPG.exe.config
+C:\Users\alumno.ET37\Desktop\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\bin\Debug\6_Quisbert_ZEGARPG.exe
+C:\Users\alumno.ET37\Desktop\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\bin\Debug\6_Quisbert_ZEGARPG.pdb
+C:\Users\alumno.ET37\Desktop\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\obj\Debug\6_Quisbert_ZEGARPG.exe
+C:\Users\alumno.ET37\Desktop\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\obj\Debug\6_Quisbert_ZEGARPG.pdb
+C:\Users\alumno.ET37\Downloads\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\bin\Debug\6_Quisbert_ZEGARPG.exe.config
+C:\Users\alumno.ET37\Downloads\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\obj\Debug\6_Quisbert_ZEGARPG.exe
+C:\Users\alumno.ET37\Downloads\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\obj\Debug\6_Quisbert_ZEGARPG.pdb
+C:\Users\alumno.ET37\Downloads\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\bin\Debug\6_Quisbert_ZEGARPG.exe
+C:\Users\alumno.ET37\Downloads\6_Quisbert_ZEGARPG\6_Quisbert_ZEGARPG\bin\Debug\6_Quisbert_ZEGARPG.pdb

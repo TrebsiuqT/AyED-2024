@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Desktop\5_Quisbert_HotSale\5_Quisbert_HotSale\bin\Debug\5_Quisbert_HotSale.exe.config
+C:\Users\alumno.ET37\Desktop\5_Quisbert_HotSale\5_Quisbert_HotSale\bin\Debug\5_Quisbert_HotSale.exe
+C:\Users\alumno.ET37\Desktop\5_Quisbert_HotSale\5_Quisbert_HotSale\bin\Debug\5_Quisbert_HotSale.pdb
+C:\Users\alumno.ET37\Desktop\5_Quisbert_HotSale\5_Quisbert_HotSale\obj\Debug\5_Quisbert_HotSale.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\5_Quisbert_HotSale\5_Quisbert_HotSale\obj\Debug\5_Quisbert_HotSale.exe
+C:\Users\alumno.ET37\Desktop\5_Quisbert_HotSale\5_Quisbert_HotSale\obj\Debug\5_Quisbert_HotSale.pdb
+C:\Users\alumno.ET37\Downloads\5_Quisbert_HotSale\5_Quisbert_HotSale\bin\Debug\5_Quisbert_HotSale.exe.config
+C:\Users\alumno.ET37\Downloads\5_Quisbert_HotSale\5_Quisbert_HotSale\obj\Debug\5_Quisbert_HotSale.exe
+C:\Users\alumno.ET37\Downloads\5_Quisbert_HotSale\5_Quisbert_HotSale\obj\Debug\5_Quisbert_HotSale.pdb
+C:\Users\alumno.ET37\Downloads\5_Quisbert_HotSale\5_Quisbert_HotSale\bin\Debug\5_Quisbert_HotSale.exe
+C:\Users\alumno.ET37\Downloads\5_Quisbert_HotSale\5_Quisbert_HotSale\bin\Debug\5_Quisbert_HotSale.pdb
+C:\Users\alumno.ET37\Downloads\5_Quisbert_HotSale\5_Quisbert_HotSale\obj\Debug\5_Quisbert_HotSale.csprojResolveAssemblyReference.cache
