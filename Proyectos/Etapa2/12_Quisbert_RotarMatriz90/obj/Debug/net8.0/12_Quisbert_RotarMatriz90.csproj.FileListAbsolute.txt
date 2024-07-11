@@ -1,0 +1,14 @@
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\bin\Debug\net8.0\12_Quisbert_RotarMatriz90.exe
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\bin\Debug\net8.0\12_Quisbert_RotarMatriz90.deps.json
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\bin\Debug\net8.0\12_Quisbert_RotarMatriz90.runtimeconfig.json
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\bin\Debug\net8.0\12_Quisbert_RotarMatriz90.dll
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\bin\Debug\net8.0\12_Quisbert_RotarMatriz90.pdb
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\12_Quisbert_RotarMatriz90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\12_Quisbert_RotarMatriz90.AssemblyInfoInputs.cache
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\12_Quisbert_RotarMatriz90.AssemblyInfo.cs
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\12_Quisbert_RotarMatriz90.csproj.CoreCompileInputs.cache
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\12_Quisbert_RotarMatriz90.dll
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\refint\12_Quisbert_RotarMatriz90.dll
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\12_Quisbert_RotarMatriz90.pdb
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\12_Quisbert_RotarMatriz90.genruntimeconfig.cache
+C:\Users\ttiag\source\repos\12_Quisbert_RotarMatriz90\obj\Debug\net8.0\ref\12_Quisbert_RotarMatriz90.dll

@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\9_Quisbert_MIPrimerMatriz\9_Quisbert_MIPrimerMatriz\bin\Debug\9_Quisbert_MIPrimerMatriz.exe.config
+C:\Users\alumno.ET37\Desktop\9_Quisbert_MIPrimerMatriz\9_Quisbert_MIPrimerMatriz\bin\Debug\9_Quisbert_MIPrimerMatriz.exe
+C:\Users\alumno.ET37\Desktop\9_Quisbert_MIPrimerMatriz\9_Quisbert_MIPrimerMatriz\bin\Debug\9_Quisbert_MIPrimerMatriz.pdb
+C:\Users\alumno.ET37\Desktop\9_Quisbert_MIPrimerMatriz\9_Quisbert_MIPrimerMatriz\obj\Debug\9_Quisbert_MIPrimerMatriz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\9_Quisbert_MIPrimerMatriz\9_Quisbert_MIPrimerMatriz\obj\Debug\9_Quisbert_MIPrimerMatriz.exe
+C:\Users\alumno.ET37\Desktop\9_Quisbert_MIPrimerMatriz\9_Quisbert_MIPrimerMatriz\obj\Debug\9_Quisbert_MIPrimerMatriz.pdb
