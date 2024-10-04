@@ -1,0 +1,14 @@
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\bin\Debug\net8.0\1_Quisbert_SistemaDeConversiones.exe
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\bin\Debug\net8.0\1_Quisbert_SistemaDeConversiones.deps.json
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\bin\Debug\net8.0\1_Quisbert_SistemaDeConversiones.runtimeconfig.json
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\bin\Debug\net8.0\1_Quisbert_SistemaDeConversiones.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\bin\Debug\net8.0\1_Quisbert_SistemaDeConversiones.pdb
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\1_Quisbert_SistemaDeConversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\1_Quisbert_SistemaDeConversiones.AssemblyInfoInputs.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\1_Quisbert_SistemaDeConversiones.AssemblyInfo.cs
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\1_Quisbert_SistemaDeConversiones.csproj.CoreCompileInputs.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\1_Quisbert_SistemaDeConversiones.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\refint\1_Quisbert_SistemaDeConversiones.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\1_Quisbert_SistemaDeConversiones.pdb
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\1_Quisbert_SistemaDeConversiones.genruntimeconfig.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\1_Quisbert_SistemaDeConversiones\obj\Debug\net8.0\ref\1_Quisbert_SistemaDeConversiones.dll

@@ -1,0 +1,14 @@
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\bin\Debug\net8.0\2_Quisbert_AreaVolumen.exe
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\bin\Debug\net8.0\2_Quisbert_AreaVolumen.deps.json
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\bin\Debug\net8.0\2_Quisbert_AreaVolumen.runtimeconfig.json
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\bin\Debug\net8.0\2_Quisbert_AreaVolumen.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\bin\Debug\net8.0\2_Quisbert_AreaVolumen.pdb
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\2_Quisbert_AreaVolumen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\2_Quisbert_AreaVolumen.AssemblyInfoInputs.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\2_Quisbert_AreaVolumen.AssemblyInfo.cs
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\2_Quisbert_AreaVolumen.csproj.CoreCompileInputs.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\2_Quisbert_AreaVolumen.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\refint\2_Quisbert_AreaVolumen.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\2_Quisbert_AreaVolumen.pdb
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\2_Quisbert_AreaVolumen.genruntimeconfig.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\2_Quisbert_AreaVolumen\obj\Debug\net8.0\ref\2_Quisbert_AreaVolumen.dll

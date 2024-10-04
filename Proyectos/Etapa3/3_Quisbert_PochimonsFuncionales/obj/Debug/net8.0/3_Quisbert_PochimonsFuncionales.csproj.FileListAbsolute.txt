@@ -1,0 +1,14 @@
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\bin\Debug\net8.0\3_Quisbert_PochimonsFuncionales.exe
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\bin\Debug\net8.0\3_Quisbert_PochimonsFuncionales.deps.json
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\bin\Debug\net8.0\3_Quisbert_PochimonsFuncionales.runtimeconfig.json
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\bin\Debug\net8.0\3_Quisbert_PochimonsFuncionales.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\bin\Debug\net8.0\3_Quisbert_PochimonsFuncionales.pdb
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\3_Quisbert_PochimonsFuncionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\3_Quisbert_PochimonsFuncionales.AssemblyInfoInputs.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\3_Quisbert_PochimonsFuncionales.AssemblyInfo.cs
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\3_Quisbert_PochimonsFuncionales.csproj.CoreCompileInputs.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\3_Quisbert_PochimonsFuncionales.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\refint\3_Quisbert_PochimonsFuncionales.dll
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\3_Quisbert_PochimonsFuncionales.pdb
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\3_Quisbert_PochimonsFuncionales.genruntimeconfig.cache
+C:\Users\ttiag\OneDrive\Escritorio\Files C#\3_Quisbert_PochimonsFuncionales\obj\Debug\net8.0\ref\3_Quisbert_PochimonsFuncionales.dll
