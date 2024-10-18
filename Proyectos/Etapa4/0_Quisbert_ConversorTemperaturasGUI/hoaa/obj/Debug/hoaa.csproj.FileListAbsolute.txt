@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\bin\Debug\hoaa.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\bin\Debug\hoaa.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\bin\Debug\hoaa.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\obj\Debug\hoaa.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\obj\Debug\hoaa.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\obj\Debug\hoaa.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\obj\Debug\hoaa.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\obj\Debug\hoaa.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\hoaa\hoaa\obj\Debug\hoaa.pdb
