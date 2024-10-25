@@ -1,0 +1,14 @@
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.AssemblyInfoInputs.cache
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.AssemblyInfo.cs
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.csproj.CoreCompileInputs.cache
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\bin\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.exe
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\bin\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.deps.json
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\bin\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.runtimeconfig.json
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\bin\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.dll
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\bin\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.pdb
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.dll
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\refint\14_Quisbert_CalificacionesEstudiantiles.dll
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.pdb
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\14_Quisbert_CalificacionesEstudiantiles.genruntimeconfig.cache
+C:\Users\ttiag\source\repos\14_Quisbert_CalificacionesEstudiantiles\obj\Debug\net8.0\ref\14_Quisbert_CalificacionesEstudiantiles.dll
