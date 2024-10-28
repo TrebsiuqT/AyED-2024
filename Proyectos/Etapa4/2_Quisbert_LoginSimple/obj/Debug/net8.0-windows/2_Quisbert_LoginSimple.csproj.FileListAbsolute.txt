@@ -1,0 +1,17 @@
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\bin\Debug\net8.0-windows\2_Quisbert_LoginSimple.exe
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\bin\Debug\net8.0-windows\2_Quisbert_LoginSimple.deps.json
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\bin\Debug\net8.0-windows\2_Quisbert_LoginSimple.runtimeconfig.json
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\bin\Debug\net8.0-windows\2_Quisbert_LoginSimple.dll
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\bin\Debug\net8.0-windows\2_Quisbert_LoginSimple.pdb
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\_2_Quisbert_LoginSimple.Form1.resources
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.csproj.GenerateResource.cache
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.AssemblyInfoInputs.cache
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.AssemblyInfo.cs
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.csproj.CoreCompileInputs.cache
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.dll
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\refint\2_Quisbert_LoginSimple.dll
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.pdb
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\2_Quisbert_LoginSimple.genruntimeconfig.cache
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\ref\2_Quisbert_LoginSimple.dll
+C:\Users\ttiag\source\repos\2_Quisbert_LoginSimple\obj\Debug\net8.0-windows\_2_Quisbert_LoginSimple.Properties.Resources.resources
