@@ -1,0 +1,16 @@
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.exe
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.deps.json
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.runtimeconfig.json
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.dll
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\bin\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.pdb
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\_3_Quisbert_TerminosYCondiciones.Form1.resources
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.csproj.GenerateResource.cache
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.AssemblyInfoInputs.cache
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.AssemblyInfo.cs
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.csproj.CoreCompileInputs.cache
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.dll
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\refint\3_Quisbert_TerminosYCondiciones.dll
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.pdb
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\3_Quisbert_TerminosYCondiciones.genruntimeconfig.cache
+C:\Users\ttiag\source\repos\3_Quisbert_TerminosYCondiciones\obj\Debug\net8.0-windows\ref\3_Quisbert_TerminosYCondiciones.dll
